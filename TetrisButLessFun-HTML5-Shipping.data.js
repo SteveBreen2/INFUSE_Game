@@ -173,6 +173,6 @@ Module['FS_createPath']('/TetrisButLessFun/Content', 'Paks', true, true);
   }
 
  }
- loadPackage({"files": [{"start": 0, "audio": 0, "end": 53, "filename": "/Manifest_NonUFSFiles_HTML5.txt"}, {"start": 53, "audio": 0, "end": 105, "filename": "/UE4CommandLine.txt"}, {"start": 105, "audio": 0, "end": 84210950, "filename": "/TetrisButLessFun/Content/Paks/TetrisButLessFun-HTML5.pak"}], "remote_package_size": 84210950, "package_uuid": "b226c532-7ee2-4890-98ea-fb907428298c"});
+ loadPackage({"files": [{"start": 0, "audio": 0, "end": 53, "filename": "/Manifest_NonUFSFiles_HTML5.txt"}, {"start": 53, "audio": 0, "end": 105, "filename": "/UE4CommandLine.txt"}, {"start": 105, "audio": 0, "end": 17372376, "filename": "/TetrisButLessFun/Content/Paks/TetrisButLessFun-HTML5.pak"}], "remote_package_size": 17372376, "package_uuid": "304f290e-1c0f-40d7-8b0d-2703690c0859"});
 
 })();
