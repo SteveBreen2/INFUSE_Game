@@ -173,6 +173,6 @@ Module['FS_createPath']('/INFUSE/Content', 'Paks', true, true);
   }
 
  }
- loadPackage({"files": [{"start": 0, "audio": 0, "end": 53, "filename": "/Manifest_NonUFSFiles_HTML5.txt"}, {"start": 53, "audio": 0, "end": 85, "filename": "/UE4CommandLine.txt"}, {"start": 85, "audio": 0, "end": 20284517, "filename": "/INFUSE/Content/Paks/INFUSE-HTML5.pak"}], "remote_package_size": 20284517, "package_uuid": "a76057de-3c15-4bc6-93ac-1db5e6cd34f8"});
+ loadPackage({"files": [{"start": 0, "audio": 0, "end": 53, "filename": "/Manifest_NonUFSFiles_HTML5.txt"}, {"start": 53, "audio": 0, "end": 85, "filename": "/UE4CommandLine.txt"}, {"start": 85, "audio": 0, "end": 20215015, "filename": "/INFUSE/Content/Paks/INFUSE-HTML5.pak"}], "remote_package_size": 20215015, "package_uuid": "84628695-565c-4501-94f0-573530d48480"});
 
 })();
